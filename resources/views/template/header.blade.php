@@ -6,8 +6,8 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
           <a class="navbar-brand" href="#">Reservation chambre</a>
           <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">Acceuil <span class="sr-only">(current)</span></a>
+            <li class="nav-item ">
+              <a class="nav-link" href="#">Acceuil</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Client</a>
@@ -16,7 +16,7 @@
               <a class="nav-link " href="#">Chambre</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link " href="#">paiement</a>
+                <a class="nav-link " href="#">Paiement</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link " href="#">Reservation</a>
